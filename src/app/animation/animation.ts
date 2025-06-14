@@ -27,9 +27,6 @@ import { FormsModule } from '@angular/forms';
 </div>
 
 
-
-
-  
   `,
   styleUrl: './animation.css',
 animations: [
