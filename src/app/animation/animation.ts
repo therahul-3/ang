@@ -25,6 +25,10 @@ import { FormsModule } from '@angular/forms';
     <a href="#" class="btn btn-danger">Go somewhere</a>
   </div>
 </div>
+
+
+
+
   
   `,
   styleUrl: './animation.css',
